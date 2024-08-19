@@ -255,49 +255,24 @@ Mitigates Misunderstandings and Bias:
 Minimizing Ambiguity: Clear prompts help in reducing misunderstandings and ambiguities that might arise from vague or poorly structured inputs.
 Bias Control: Thoughtfully crafted prompts can help in addressing and minimizing biases in the AI model’s responses, promoting fairness and accuracy.
 
-Facilitates Experimentation and Learning:
-Iterative Refinement: Prompt engineering involves experimentation and iterative refinement, allowing users to learn how different prompt structures affect the AI’s responses.
-Adaptation: Helps in adapting the prompts based on feedback and evolving requirements, ensuring that the interactions remain effective over time.
-
-Examples of Prompt Engineering
-Simple Query:
-Prompt: “What is the capital of France?”
-Response: “The capital of France is Paris.”
-Detailed Request:
-
-Prompt: “Explain the concept of blockchain technology and its potential applications in supply chain management.”
-Response: “Blockchain technology is a decentralized digital ledger that records transactions across many computers. In supply chain management, it can be used to enhance transparency, traceability, and efficiency…”
-Creative Task:
-
-Prompt: “Write a short story about a futuristic city where robots and humans coexist harmoniously.”
-Response: “In a futuristic city where robots and humans live side by side, the skyline was adorned with towering skyscrapers and lush vertical gardens…”
-Problem Solving:
-
-Prompt: “Provide a step-by-step guide to solving a quadratic equation using the quadratic formula.”
-Response: “To solve a quadratic equation using the quadratic formula, follow these steps: 1. Identify the coefficients a, b, and c from the equation ax^2 + bx + c = 0. 2. Plug these values into the quadratic formula x = (-b ± √(b²-4ac)) / (2a). 3. Calculate the discriminant b²-4ac. 4. Determine the two possible values of x…”
-
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Example of a Vague Prompt
-Vague Prompt:
+Examples of Prompt Engineering
 
-“Tell me about technology.”
+Simple Query:
+Prompt: What is the capital of France?
+Response: The capital of France is Paris.
 
-Improved Prompt:
+Detailed Request:
+Prompt: Explain the concept of blockchain technology and its potential applications in supply chain management.
+Response: Blockchain technology is a decentralized digital ledger that records transactions across many computers. In supply chain management, it can be used to enhance transparency, traceability, and efficiency…
 
-“Explain how artificial intelligence is used in healthcare to improve patient outcomes.”
+Creative Task:
+Prompt: Write a short story about a futuristic city where robots and humans coexist harmoniously.
+Response: In a futuristic city where robots and humans live side by side, the skyline was adorned with towering skyscrapers and lush vertical gardens…
 
-Why the Improved Prompt is More Effective
-Clarity:
+Problem Solving:
+Prompt: Provide a step-by-step guide to solving a quadratic equation using the quadratic formula.
+Response: To solve a quadratic equation using the quadratic formula, follow these steps: 1. Identify the coefficients a, b, and c from the equation ax^2 + bx + c = 0. 2. Plug these values into the quadratic formula x = (-b ± √(b²-4ac)) / (2a). 3. Calculate the discriminant b²-4ac. 4. Determine the two possible values of x…
 
-Vague Prompt: The term "technology" is broad and could refer to any aspect of technology, making it unclear what information is desired.
-Improved Prompt: Specifies "artificial intelligence" and "healthcare," clearly defining the topic and scope of the request.
-Specificity:
-
-Vague Prompt: Lacks details on what aspect of technology should be discussed (e.g., types, applications, history).
-Improved Prompt: Focuses on a specific application of technology (AI in healthcare), narrowing down the subject matter to make it easier to address.
-Conciseness:
-
-Vague Prompt: The broadness of the prompt might lead to an overly general or lengthy response.
-Improved Prompt: Directly asks for an explanation of how AI is used in a specific field, making it more likely to receive a targeted and relevant response.
